@@ -11,6 +11,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GabryelSantAna&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<div align="center"> 
+  <a href = "mailto:byels.2002@gmailcom"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabryel-sant-ana-183632203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> 
+
 
 <div style="display: inline_block" align="center"><br>
  
