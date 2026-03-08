@@ -26,6 +26,8 @@ public class GabryelSantAna {
     private final String city    = "Niterói, RJ — Brasil 🇧🇷";
     private final String edu     = "Análise e Desenvolvimento de Sistemas @ UNINITER";
     private final String email   = "byels.2002@gmail.com";
+    private final String portfolio = "https://gabryelsantana.github.io";
+
 
     private final String[] currentlyLearning = {
         "Spring Boot", "REST APIs", "Design Patterns", "Clean Architecture"
@@ -143,6 +145,7 @@ public class GabryelSantAna {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfólio-gabryelsantana.github.io-0d1117?style=for-the-badge&logo=githubpages&logoColor=00bfbf)](https://gabryelsantana.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-byels.2002%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00bfbf)](mailto:byels.2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabryel--sant--ana-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bfbf)](https://www.linkedin.com/in/gabryel-sant-ana-183632203/)
 [![GitHub](https://img.shields.io/badge/GitHub-GabryelSantAna-0d1117?style=for-the-badge&logo=github&logoColor=00bfbf)](https://github.com/GabryelSantAna)
