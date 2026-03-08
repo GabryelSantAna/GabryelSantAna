@@ -1,30 +1,162 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Gabryel+Sant'Ana+de+Oliveira;I'm+22+years+old;I+from+Rio+De+Janeiro,+RJ;I+study+Systems+Analysis+and+Development+at+UNINTER;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<!-- Animated header wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:00bfbf&height=200&section=header&text=Gabryel%20Sant'Ana&fontSize=45&fontColor=00bfbf&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%7C%20Python&descAlignY=55&descColor=c9d1d9" width="100%"/>
 
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00BFBF&center=true&vCenter=true&random=false&width=550&lines=Back-end+Developer+%F0%9F%96%A5%EF%B8%8F;Java+%7C+Python+%7C+Spring+Boot;Always+learning%2C+always+building...;From+Niter%C3%B3i%2C+RJ+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 
+<br/>
 
-<div align="center"> 
-  <a href = "mailto:byels.2002@gmailcom"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabryel-sant-ana-183632203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> 
+<!-- Profile views badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=GabryelSantAna&color=00bfbf&style=flat-square&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/GabryelSantAna?color=00bfbf&style=flat-square&logo=github&label=Followers)](https://github.com/GabryelSantAna?tab=followers)
 
-
-<div style="display: inline_block" align="center"><br>
- 
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+---
 
+## `$ whoami`
 
+```java
+public class GabryelSantAna {
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+    private final String name    = "Gabryel Sant'Ana de Oliveira";
+    private final String role    = "Back-end Developer";
+    private final String city    = "Niterói, RJ — Brasil 🇧🇷";
+    private final String edu     = "Análise e Desenvolvimento de Sistemas @ UNINITER";
+    private final String email   = "byels.2002@gmail.com";
+
+    private final String[] currentlyLearning = {
+        "Spring Boot", "REST APIs", "Design Patterns", "Clean Architecture"
+    };
+
+    private final String[] funFacts = {
+        "☕ Código funciona melhor com café",
+        "🎯 Cada bug resolvido é uma vitória",
+        "🚀 Em constante evolução"
+    };
+
+    public String getStatus() {
+        return "🎓 Estudando | 💻 Construindo | 🌱 Crescendo";
+    }
+}
+```
+
+---
+
+## `$ tech-stack --list`
+
+<div align="center">
+
+### ⚙️ Languages
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00bfbf)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00bfbf)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00bfbf)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00bfbf)
+
+### 🛠️ Tools & Environment
+![VSCode](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=00bfbf)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00bfbf)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00bfbf)
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=00bfbf)
+
+### 📚 Currently Exploring
+![Spring](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=00bfbf)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00bfbf)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00bfbf)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=00bfbf)
+
+</div>
+
+---
+
+## `$ git stats --global`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabryelSantAna&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelSantAna&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabryelSantAna&theme=transparent&hide_border=true&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=666" width="55%"/>
+
+</div>
+
+---
+
+## `$ ls -la ./projects`
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| 🏥 [sghssApi](https://github.com/GabryelSantAna/sghssApi) | Sistema de Gestão Hospitalar e de Serviços de Saúde | `Java` |
+| ♟️ [Chess-Java](https://github.com/GabryelSantAna/Chess-Java) | Jogo de Xadrez implementado via terminal | `Java` `OOP` |
+| 📦 [Trabalho_POO](https://github.com/GabryelSantAna/Trabalho_POO) | Projeto de Programação Orientada a Objetos | `Java` |
+| 🎓 [Dio_trilha_java_basico](https://github.com/GabryelSantAna/Dio_trilha_java_basico) | Trilha Java Básico — DIO | `Java` |
+
+---
+
+## `$ cat activity_graph.svg`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabryelSantAna&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## `$ now-playing --spotify`
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fgjgrs472x4tggj4l4cj4xx4ua&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fgjgrs472x4tggj4l4cj4xx4ua&redirect=true)
+
+</div>
+
+---
+
+## `$ cat roadmap.json`
+
+```json
+{
+  "current": {
+    "focus": "Back-end Development",
+    "stack": ["Java", "Spring Boot", "REST APIs", "MySQL"]
+  },
+  "next_steps": {
+    "Q1_2025": ["Docker", "CI/CD com GitHub Actions", "Testes unitários com JUnit"],
+    "Q2_2025": ["Microsserviços", "RabbitMQ / Kafka", "PostgreSQL avançado"],
+    "Q3_2025": ["AWS (EC2, S3, RDS)", "Deploy em produção", "Spring Security"],
+    "Q4_2025": ["Kubernetes básico", "Monitoramento com Grafana", "Primeiro projeto fullstack"]
+  },
+  "dream": "Construir sistemas robustos que impactem pessoas reais 🚀"
+}
+```
+
+---
+
+## `$ contact --info`
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-byels.2002%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00bfbf)](mailto:byels.2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabryel--sant--ana-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bfbf)](https://www.linkedin.com/in/gabryel-sant-ana-183632203/)
+[![GitHub](https://img.shields.io/badge/GitHub-GabryelSantAna-0d1117?style=for-the-badge&logo=github&logoColor=00bfbf)](https://github.com/GabryelSantAna)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,50:0d2137,100:0d1117&height=120&section=footer" width="100%"/>
+
+```
+> "First, solve the problem. Then, write the code." — John Johnson
+```
+
+</div>
